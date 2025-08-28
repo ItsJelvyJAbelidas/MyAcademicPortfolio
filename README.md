@@ -1,2 +1,2 @@
 # MyAcademicPortfolio
-This repository contains my academic projects
+This contains my academic projects
